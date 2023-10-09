@@ -1,0 +1,28 @@
+import 'package:flutter/material.dart';
+
+Color whiteColors = Colors.white;
+Color blackColors = Colors.black;
+Color blueAxent = Color(0xff343d6c);
+// Color blueAxent = Colors.blueAccent;
+Color redColor = Colors.red;
+Color lightGrey = Colors.grey;
+Color bluegrey = Colors.blueGrey;
+Color darkGreen = Color.fromARGB(255, 51, 159, 54);
+Color darkGrey = Color.fromARGB(255, 66, 61, 42);
+Color grey = Color.fromARGB(255, 62, 40, 63);
+Color lightGreen = Color.fromARGB(255, 74, 133, 104);
+Color defaultBtnColor = Color(0xff343d6c);
+Color defaultBtnTextColor = grey;
+Color biometricBtnColor = grey;
+Color addressBtnColor = grey;
+Color SelectedAdresBtnColor = whiteColors;
+Color adressBtnTextColor = grey;
+Color documentsBtnColor = grey;
+Color SelectedBiometricBtnColor = whiteColors;
+Color SelectedDocumentsBtnColor = whiteColors;
+Color biometricbtnTextColor = grey;
+Color documentsBtnTextColor = grey;
+Color extractbtnHoverColor = grey;
+Color extractbtnClickedColor = darkGreen;
+Color NotProvidedbtnHoverColor = grey;
+Color NotProvidedbtnClickedColor = darkGreen;
